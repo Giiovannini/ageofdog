@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dog Age</string>
+    <string name="lbl_age">Insira aqui a idade em anos: </string>
+    <string name="btn_calc">Calcular</string>
+</resources>
